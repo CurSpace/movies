@@ -17,7 +17,7 @@ import java.util.List;
 public class Mov {
     @Id
     private ObjectId id;
-    private String imdb;
+    private String imdbId;
     private String title;
     private String releaseDate;
     private String trailerLink;
